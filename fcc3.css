@@ -1,0 +1,21 @@
+nav{
+    position: fixed;
+    top: 0;
+}
+.flexbox .one .two{
+    display: flex;
+}
+.one{
+    background-color: green;
+}
+
+.two{
+    background-color: blue;
+}
+
+
+@media (max-width: 600px) {
+    body {
+      background-color: green;
+    }
+  }
